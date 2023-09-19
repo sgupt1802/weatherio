@@ -22,7 +22,7 @@ The Weather App is a web-based application that provides real-time weather infor
 
 ## Demo
 
-You can try the Weather App live by visiting [Demo Link](https://your-weather-app-demo-url.com).
+You can try the Weather App live by visiting [Demo Link](https://weathercanvas.netlify.app).
 
 ## Installation
 
