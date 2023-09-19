@@ -1,7 +1,6 @@
 
 'use strict';
-const api_key = "9cfe436aa7cd95e22a80ca9d58006e11";
-const your_api = "9cfe436aa7cd95e22a80ca9d58006e11"
+const api_key = your_api_key
 
 
 /** 
