@@ -22,7 +22,22 @@ The Weather App is a web-based application that provides real-time weather infor
 
 ## Demo
 
-You can try the Weather App live by visiting [Demo Link](https://weathercanvas.netlify.app).
+You can try out the live demo of the Weather App by visiting the following link:
+
+[Weather App Demo](https://weathercanvas.netlify.app)
+
+**Description:**
+
+The Weather App allows you to check the current weather conditions, 5-day forecasts, and many-more details for your location or any other city worldwide.
+
+**Usage Instructions:**
+
+1. Enter a city name or location in the search bar.
+2. Press Enter to continue
+3. Explore the current conditions, 5-day forecast, humidity, and temperature for the selected location.
+
+Feel free to test the app, explore its features, and experience the power of real-time weather data.
+
 
 ## Installation
 
@@ -66,3 +81,4 @@ The OpenWeatherMap API provides real-time weather data, ensuring that the Weathe
 
 By integrating the OpenWeatherMap API, we aim to deliver a seamless and informative weather experience to our users, helping them make informed decisions and stay prepared for whatever Mother Nature has in store.
 
+**THANKYOU**
